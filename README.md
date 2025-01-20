@@ -1,4 +1,4 @@
- **DataVizify**  
+##### **DataVizify**  
 
 ### **Project Description**  
 **DataVizify** is a user-friendly web application designed to help users transform raw datasets into meaningful and visually appealing insights. By simply uploading a dataset file (CSV, Excel, or ZIP), users can generate a variety of visualizations such as line plots, bar charts, scatter plots, heatmaps, and pie charts. The app is built using Flask for the backend, Matplotlib and Seaborn for visualizations, and HTML/CSS for a clean and responsive user interface.  
