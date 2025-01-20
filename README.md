@@ -36,10 +36,6 @@ An interactive web application to upload datasets and generate insightful visual
    python -m venv venv  
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```  
-3. Install the required packages:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
 
 ---
 
